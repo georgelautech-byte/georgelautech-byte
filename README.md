@@ -73,3 +73,8 @@ Omar was the co-chair of the <a href="https://www.first.org/global/sigs/psirt/" 
 <div align="center" dir="auto">
      <img src="https://count.getloli.com/@David?name=David&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </div>
+
+
+<div align="center" dir="auto">
+     <img src="https://count.getloli.com/@David?name=David&theme=sketch-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=none">
+</div>
