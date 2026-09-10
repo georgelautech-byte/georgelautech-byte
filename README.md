@@ -2,12 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Welcome+to+George's+Profile" alt="Typing SVG" /></a>
 </div>
 
-<div align="center" width="50" dir="auto">
+<!-- <div align="center" width="50" dir="auto">
   <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
-</picture></themed-picture>
+</picture></themed-picture> -->
 <!-- <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Skills_Animation_Dark.gif">
